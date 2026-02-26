@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-27T02:11:33 EET" name="Default suite" finished-at="2026-02-27T02:11:44 EET" duration-ms="11199">
+    <groups>
+    </groups>
+    <test started-at="2026-02-27T02:11:33 EET" name="Default test" finished-at="2026-02-27T02:11:44 EET" duration-ms="11199">
+      <class name="secondproject.autostore">
+        <test-method is-config="true" signature="sauce2()[pri:0, instance:secondproject.autostore@1d131e1b]" started-at="2026-02-27T02:11:33 EET" name="sauce2" finished-at="2026-02-27T02:11:35 EET" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauce2 -->
+        <test-method signature="Signup()[pri:1, instance:secondproject.autostore@1d131e1b]" started-at="2026-02-27T02:11:35 EET" name="Signup" finished-at="2026-02-27T02:11:44 EET" duration-ms="8980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method signature="Confirm()[pri:2, instance:secondproject.autostore@1d131e1b]" started-at="2026-02-27T02:11:44 EET" name="Confirm" finished-at="2026-02-27T02:11:44 EET" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Confirm -->
+      </class> <!-- secondproject.autostore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
